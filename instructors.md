@@ -4,9 +4,6 @@ title: Instructors
 collection: main
 ---
 
-## Office hours. Place: Data Science Studio, 6th Floor PAB (except as noted)
+## Office hours. Place: Universitas Singaperbangsa Karawang
 
-- David A. C. Beck (dacb@uw.edu): TBD
-- Joseph L. Hellerstein (jlheller@uw.edu): TBD
-- Jake VanderPlas (jakevdp@cs.washington.edu): TBD
-- Alex Ford (fordas@uw.edu): TBD
+- Nono Heryana (nono@cs.unsika.ac.id)

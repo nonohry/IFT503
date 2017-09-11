@@ -4,7 +4,7 @@ title: Syllabus
 collection: main
 ---
 
-| Week      | Wednesday Topic | Friday Topic   | References | Assignment |
+| Week      | Topic | Date  | References | Assignment |
 |:----------|:----------------|:---------------|:-------------------|:-------------|
-|Sep 11 |Introduction           |       | |            |
+|1 |Introduction           |       | |            |
 {: rules="groups"}
